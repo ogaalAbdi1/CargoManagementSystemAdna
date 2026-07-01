@@ -1,0 +1,6 @@
+@CargoManagementSytem_HostAddress = http://localhost:5001
+
+GET {{CargoManagementSytem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
