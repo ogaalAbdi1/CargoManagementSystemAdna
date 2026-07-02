@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eng Nadia\\Documents\\CargoManagementSystem\\Phase 2\\CargoManagementSytem\\CargoManagementSytem.csproj": {}
+    "C:\\Users\\Eng Nadia\\Documents\\CargoManagementSystem\\CargoManagementSystemReact\\Phase 2\\CargoManagementSytem\\CargoManagementSytem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eng Nadia\\Documents\\CargoManagementSystem\\Phase 2\\CargoManagementSytem\\CargoManagementSytem.csproj": {
+    "C:\\Users\\Eng Nadia\\Documents\\CargoManagementSystem\\CargoManagementSystemReact\\Phase 2\\CargoManagementSytem\\CargoManagementSytem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eng Nadia\\Documents\\CargoManagementSystem\\Phase 2\\CargoManagementSytem\\CargoManagementSytem.csproj",
+        "projectUniqueName": "C:\\Users\\Eng Nadia\\Documents\\CargoManagementSystem\\CargoManagementSystemReact\\Phase 2\\CargoManagementSytem\\CargoManagementSytem.csproj",
         "projectName": "CargoManagementSytem",
-        "projectPath": "C:\\Users\\Eng Nadia\\Documents\\CargoManagementSystem\\Phase 2\\CargoManagementSytem\\CargoManagementSytem.csproj",
+        "projectPath": "C:\\Users\\Eng Nadia\\Documents\\CargoManagementSystem\\CargoManagementSystemReact\\Phase 2\\CargoManagementSytem\\CargoManagementSytem.csproj",
         "packagesPath": "C:\\Users\\Eng Nadia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eng Nadia\\Documents\\CargoManagementSystem\\Phase 2\\CargoManagementSytem\\obj\\",
+        "outputPath": "C:\\Users\\Eng Nadia\\Documents\\CargoManagementSystem\\CargoManagementSystemReact\\Phase 2\\CargoManagementSytem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

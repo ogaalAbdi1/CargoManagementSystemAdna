@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BEwZddDDtXc=",
+  "dgSpecHash": "pUwr64z2kpo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eng Nadia\\Documents\\CargoManagementSystem\\Phase 2\\CargoManagementSytem\\CargoManagementSytem.csproj",
+  "projectFilePath": "C:\\Users\\Eng Nadia\\Documents\\CargoManagementSystem\\CargoManagementSystemReact\\Phase 2\\CargoManagementSytem\\CargoManagementSytem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eng Nadia\\.nuget\\packages\\microsoft.bcl.cryptography\\8.0.0\\microsoft.bcl.cryptography.8.0.0.nupkg.sha512",
     "C:\\Users\\Eng Nadia\\.nuget\\packages\\microsoft.data.sqlclient\\7.0.1\\microsoft.data.sqlclient.7.0.1.nupkg.sha512",
